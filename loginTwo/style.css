@@ -1,0 +1,14 @@
+.root{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+.cards{
+    width: 60%;
+    height: 50rem;
+    background-color: white;
+
+
+}
+    

@@ -1,0 +1,65 @@
+.sectionfirst{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.sectionsecond{
+    padding-left: 3rem;
+    font-size:3rem ;
+    border: 0.1rem solid black;
+    color: white;
+}
+.sectionthird{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5rem;
+    
+}
+.sectionfourth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 0.5rem;
+    
+    
+}
+.sectionfifth{
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-size: 2rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+.cards{
+    width: 20%;
+    background-color: black;
+    border: 1px solid red;
+    color: white;
+    
+}
+.des{
+
+    padding: 5px;
+    text-align: center;
+    font-size: 1.3rem;
+}
+img{
+    width: 298px;
+    height: 350px;
+}
+.root{
+    background-color: black;
+    border-top: 2rem solid pink;
+}
+.cardroot{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+ 
